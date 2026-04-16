@@ -107,7 +107,7 @@ pizza_sales.csv  →  MySQL (SQL queries)  →  KPIs & EDA Results  →  Power B
 ## 🙋‍♂️ Author
 
 <p>
-  Made with 💻 & ☕ by <a href="https://github.com/AmanSingh9918"><strong>Aman Singh</strong></a>
+  Made with 💻 & ☕ by <a><strong>Mohd Altamash Rizwi</strong></a>
 </p>
 
 > If you found this helpful, consider giving it a ⭐ — it really helps!
